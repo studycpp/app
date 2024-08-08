@@ -5,8 +5,8 @@
       "version_filename":"mybatteryok_v2.11.3.apk",
       "version_info":"Free app for displaying battery usage information and setting battery level and temperature alarms to remind you to use the battery correctly\n免费app，用于显示电池使用情况信息，并可以设置电量、温度报警来提醒你正确使用电池",
       "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.11.3/mybatteryok_v2.11.3.apk",
-      "version_icon":"https://github.com/studycpp/mybatteryok/blob/main/ucon_larger.png",
-      "version_picture":"https://github.com/studycpp/mybatteryok/blob/main/en2.jpg"
+      "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/ucon_larger.png",
+      "version_picture":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/en2.jpg"
     },
 
     { "name":"topwisdom(最高智慧)v1.0",
@@ -23,8 +23,8 @@
       "version_filename":"index.php",
       "version_info":"Application and software discussion forum, feedback and suggestions\n应用和软件讨论论坛，反馈意见和建议",
       "download_url":"http://studycpp.infinityfreeapp.com/forum",
-      "version_icon":"https://gitee.com/studycpp/app/raw/master/forum_icon.png",
-      "version_picture":"https://gitee.com/studycpp/app/raw/master/forum_large.png"
+      "version_icon":"https://raw.githubusercontent.com/studycpp/app/main/forum_icon.png",
+      "version_picture":"https://raw.githubusercontent.com/studycpp/app/main/forum_large.png"
     }
   ]
 }
