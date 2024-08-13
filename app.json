@@ -1,8 +1,8 @@
 {
   "apps": [
-    { "name":"mybatteryok(我的电池OK)v2.12.5",
-      "version_code":2125,
-      "version_filename":"mybatteryOK_v2.12.5.apk",
+    { "name":"mybatteryok(我的电池OK)v2.12.6",
+      "version_code":2126,
+      "version_filename":"mybatteryOK_v2.12.6.apk",
       "version_info":"Free app for displaying battery usage information and setting battery level and temperature alarms to remind you to use the battery correctly\n免费app，用于显示电池使用情况信息，并可以设置电量、温度报警来提醒你正确使用电池",
       "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.12.5/mybatteryOK_v2.12.5.apk",
       "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/icon_larger.png",
