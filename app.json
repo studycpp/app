@@ -5,17 +5,17 @@
       "version_filename":"mybatteryok_v2.15.0.apk",
       "version_info":"Free app that displays battery usage information and can set alarms for battery percentage, temperature, and charging and discharging power to remind you to use the battery correctly\n免费app,用于显示电池使用情况信息,并可以设置电量百分比,温度,充放电功率的报警来提醒你正确使用电池",
       "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk",
-      "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/icon_large.png",
-      "version_picture":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/en2.webp"
+      "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/icon_large.png",
+      "version_picture":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en2.webp"
     },
 
     { "name":"topwisdom(最高智慧)v1.0",
       "version_code":100,
       "version_filename":"topwisdom_v1.0.apk",
       "version_info":"Free app(Simplified Chinese only), including 20 mini games, and finally genuine videos\n免费app(仅简体中文)，包括20个小游戏,最后还有正品视频。",
-      "download_url":"https://github.com/studycpp/topwisdom/releases/download/v1.0/topwisdom_v1.0.apk",
-      "version_icon":"https://raw.githubusercontent.com/studycpp/topwisdom/main/icon_large.png",
-      "version_picture":"https://raw.githubusercontent.com/studycpp/topwisdom/main/cn2.jpg"
+      "download_url":"https://raw.githubusercontent.com/studycpp/topwisdom/main/topwisdom_v1.0.apk",
+      "version_icon":"https://raw.githubusercontent.com/studycpp/topwisdom/main/pic/icon_large.png",
+      "version_picture":"https://raw.githubusercontent.com/studycpp/topwisdom/main/pic/cn2.jpg"
     },
 
     { "name":"app and soft discuss forum(应用和软件论坛)",
@@ -23,8 +23,8 @@
       "version_filename":"index.php",
       "version_info":"Application and software discussion forum, feedback and suggestions\n应用和软件讨论论坛，反馈意见和建议",
       "download_url":"http://studycpp.infinityfreeapp.com/forum",
-      "version_icon":"https://raw.githubusercontent.com/studycpp/app/main/forum_icon.png",
-      "version_picture":"https://raw.githubusercontent.com/studycpp/app/main/forum_large.png"
+      "version_icon":"https://raw.githubusercontent.com/studycpp/app/main/pic/forum_icon.png",
+      "version_picture":"https://raw.githubusercontent.com/studycpp/app/main/pic/forum_large.png"
     }
   ]
 }
