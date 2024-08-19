@@ -1,8 +1,8 @@
 {
   "apps": [
-    { "name":"recordtodaydid(记录今天做了)v1.06",
+    { "name":"recordtodaydid(记录今天做了)v1.07",
       "version_code":106,
-      "version_filename":"recordtodaydid_v1.06.apk",
+      "version_filename":"recordtodaydid_v1.07.apk",
       "version_info":"RecordTodayDid is a free app that helps you remember what you've done recently and remember future planned tasks. With a simple click, you can mark the process of drinking water, taking medicine, washing your hands, pooping, meeting, etc\n记录今天做了(RecordTodayDid)是免费app,帮助你记忆最近做了的事情,并想起将来的计划任务.你只要简单点一下就可以标记刚才喝水,吃药,洗手,大便,会议等过程",
       "download_url":"https://raw.githubusercontent.com/studycpp/recordtodaydid/main/recordtodaydid.apk",
       "version_icon":"https://raw.githubusercontent.com/studycpp/recordtodaydid/raw/master/pic/icon_large.webp",
