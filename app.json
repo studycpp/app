@@ -1,6 +1,15 @@
 {
   "apps": [
-    { "name":"recordtodaydid(记录今天做了)v1.07",
+    { "name":"FastAskAI(快速问AI)v1.00",
+      "version_code":100,
+      "version_filename":"fastaskai_v1.00.apk",
+      "version_info":"FastAskAI is a free app that allows you to communicate with AI models by voice\n快速问AI(FastAskAI)是免费app,你可以用语音方式和AI大模型进行交流",
+      "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
+      "version_icon":"https://raw.githubusercontent.com/studycpp/fastaskai/raw/master/pic/icon_large.webp",
+      "version_picture":"https://raw.githubusercontent.com/studycpp/fastaskai/raw/master/pic/cn1.webp"
+    },
+    
+    { "name":"RecordTodayDid(记录今天做了)v1.07",
       "version_code":106,
       "version_filename":"recordtodaydid_v1.07.apk",
       "version_info":"RecordTodayDid is a free app that helps you remember what you've done recently and remember future planned tasks. With a simple click, you can mark the process of drinking water, taking medicine, washing your hands, pooping, meeting, etc\n记录今天做了(RecordTodayDid)是免费app,帮助你记忆最近做了的事情,并想起将来的计划任务.你只要简单点一下就可以标记刚才喝水,吃药,洗手,大便,会议等过程",
@@ -9,7 +18,7 @@
       "version_picture":"https://raw.githubusercontent.com/studycpp/recordtodaydid/raw/master/pic/cn1.webp"
     },
     
-    { "name":"mybatteryok(我的电池OK)v2.15.3",
+    { "name":"mybatteryOK(我的电池OK)v2.15.3",
       "version_code":2153,
       "version_filename":"mybatteryok_v2.15.3.apk",
       "version_info":"Free app that displays battery usage information and can set alarms for battery percentage, temperature, and charging and discharging power to remind you to use the battery correctly\n免费app,用于显示电池使用情况信息,并可以设置电量百分比,温度,充放电功率的报警来提醒你正确使用电池",
