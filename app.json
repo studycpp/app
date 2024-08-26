@@ -1,8 +1,8 @@
 {
   "apps": [
-    { "name":"FastAskAI(快速问AI)v1.09",
-      "version_code":109,
-      "version_filename":"fastaskai_v1.09.apk",
+    { "name":"FastAskAI(快速问AI)v1.15",
+      "version_code":115,
+      "version_filename":"fastaskai_v1.15.apk",
       "version_info":"FastAskAI is a free app that allows you to communicate with AI models by voice\n快速问AI(FastAskAI)是免费app,你可以用语音方式和AI大模型进行交流",
       "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
       "version_icon":"https://raw.githubusercontent.com/studycpp/fastaskai/raw/master/pic/icon_large.png",
