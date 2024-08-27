@@ -5,7 +5,7 @@
       "version_filename":"fastaskai_v1.15.apk",
       "version_info":"FastAskAI is a free app that allows you to communicate with AI models by voice\n快速问AI(FastAskAI)是免费app,你可以用语音方式和AI大模型进行交流",
       "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
-      "version_icon":"https://raw.githubusercontent.com/studycpp/fastaskai/raw/master/pic/icon_large.png",
+      "version_icon":"https://raw.githubusercontent.com/studycpp/fastaskai/raw/master/pic/icon_large.webp",
       "version_picture":"https://raw.githubusercontent.com/studycpp/fastaskai/raw/master/pic/en1.webp"
     },
     
@@ -18,12 +18,12 @@
       "version_picture":"https://raw.githubusercontent.com/studycpp/recordtodaydid/raw/master/pic/en1.webp"
     },
     
-    { "name":"mybatteryOK(我的电池OK)v2.15.7",
-      "version_code":2157,
-      "version_filename":"mybatteryok_v2.15.7.apk",
+    { "name":"mybatteryOK(我的电池OK)v2.15.8",
+      "version_code":2158,
+      "version_filename":"mybatteryok_v2.15.8.apk",
       "version_info":"Free app that displays battery usage information and can set alarms for battery percentage, temperature, and charging and discharging power to remind you to use the battery correctly\n免费app,用于显示电池使用情况信息,并可以设置电量百分比,温度,充放电功率的报警来提醒你正确使用电池",
       "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk",
-      "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/icon_large.png",
+      "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/icon_large.webp",
       "version_picture":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en2.webp"
     },
 
