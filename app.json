@@ -1,26 +1,26 @@
 {
   "apps": [
-    { "name":"FastAskAI(快速问AI)v1.15",
-      "version_code":115,
-      "version_filename":"fastaskai_v1.15.apk",
+    { "name":"FastAskAI(快速问AI)v1.16",
+      "version_code":116,
+      "version_filename":"fastaskai_v1.16.apk",
       "version_info":"FastAskAI is a free app that allows you to communicate with AI models by voice\n快速问AI(FastAskAI)是免费app,你可以用语音方式和AI大模型进行交流",
       "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
       "version_icon":"https://raw.githubusercontent.com/studycpp/fastaskai/main/pic/icon_large.webp",
       "version_picture":"https://raw.githubusercontent.com/studycpp/fastaskai/main/pic/en1.webp"
     },
     
-    { "name":"RecordTodayDid(记录今天做了)v1.07",
-      "version_code":107,
-      "version_filename":"recordtodaydid_v1.07.apk",
+    { "name":"RecordTodayDid(记录今天做了)v1.08",
+      "version_code":108,
+      "version_filename":"recordtodaydid_v1.08.apk",
       "version_info":"RecordTodayDid is a free app that helps you remember what you've done recently and remember future planned tasks. With a simple click, you can mark the process of drinking water, taking medicine, washing your hands, pooping, meeting, etc\n记录今天做了(RecordTodayDid)是免费app,帮助你记忆最近做了的事情,并想起将来的计划任务.你只要简单点一下就可以标记刚才喝水,吃药,洗手,大便,会议等过程",
       "download_url":"https://raw.githubusercontent.com/studycpp/recordtodaydid/main/recordtodaydid.apk",
       "version_icon":"https://raw.githubusercontent.com/studycpp/recordtodaydid/main/pic/icon_large.webp",
       "version_picture":"https://raw.githubusercontent.com/studycpp/recordtodaydid/main/pic/en1.webp"
     },
     
-    { "name":"mybatteryOK(我的电池OK)v2.15.8",
-      "version_code":2158,
-      "version_filename":"mybatteryok_v2.15.8.apk",
+    { "name":"mybatteryOK(我的电池OK)v2.15.9",
+      "version_code":2159,
+      "version_filename":"mybatteryok_v2.15.9.apk",
       "version_info":"Free app that displays battery usage information and can set alarms for battery percentage, temperature, and charging and discharging power to remind you to use the battery correctly\n免费app,用于显示电池使用情况信息,并可以设置电量百分比,温度,充放电功率的报警来提醒你正确使用电池",
       "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk",
       "version_icon":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/icon_large.webp",
